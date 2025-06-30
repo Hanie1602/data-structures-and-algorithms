@@ -1,0 +1,34 @@
+# Thư mục hệ thống
+.DS_Store
+Thumbs.db
+
+# File tạm thời của IDE (IntelliJ, Eclipse, VS Code...)
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Output của Java
+/bin/
+/build/
+/out/
+
+# Tập tin biên dịch
+*.class
+
+# File log hoặc debug
+*.log
+
+# Tệp tạm thời hệ điều hành
+*.swp
+*.tmp
+
+# Sử dụng Maven hoặc Gradle
+target/
+*.jar
+*.war
+*.ear
+
+# File môi trường riêng
+.env
